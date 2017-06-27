@@ -1,0 +1,11 @@
+/bin/bash: bundle: command not found
+/bin/bash: bundle: command not found
+/bin/bash: ./bundle: No such file or directory
+/bin/bash: ./bundle: No such file or directory
+./bin/bundle:3: uninitialized constant Gem (NameError)
+./bin/bundle:3: uninitialized constant Gem (NameError)
+/bin/bash: bundle: command not found
+/bin/bash: bundle: command not found
+/bin/bash: bundle: command not found
+/bin/bash: bundle: command not found
+/bin/bash: bundle: command not found
